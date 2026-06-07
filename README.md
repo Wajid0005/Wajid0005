@@ -307,6 +307,26 @@
   </a>
 </div>
 
+<br/>
+<div align="center">
+  <h3>More Projects</h3>
+  <a href="https://github.com/Wajid0005/ai-file-intelligence-system" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20File%20Intelligence-Repo-F55027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Wajid0005/insurance-claim-fastapi" target="_blank">
+    <img src="https://img.shields.io/badge/Insurance%20Claim%20FastAPI-Repo-F55027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Wajid0005/car_price_prediction" target="_blank">
+    <img src="https://img.shields.io/badge/Car%20Price%20Predictor-Repo-F55027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Wajid0005/cgpa-package-predictor" target="_blank">
+    <img src="https://img.shields.io/badge/CGPA%20Package%20Predictor-Repo-F55027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="AI brain gif" />
