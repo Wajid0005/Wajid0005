@@ -211,7 +211,7 @@
 ![GitHub API](https://img.shields.io/badge/GitHub%20API-1a1a1a?style=flat-square&logo=github&logoColor=FF7A52)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=F55027)
 
-<a href="https://github.com/Wajid0005/smart-github-resume-extractor">
+<a href="https://github.com/Wajid0005/smart-resume-extractor">
   <img src="https://img.shields.io/badge/View%20Repo%20→-F55027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
