@@ -215,6 +215,10 @@
   <img src="https://img.shields.io/badge/View%20Repo%20→-F55027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+  <a href="https://smart-resume-extractor-production.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-F55027?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -296,6 +300,13 @@
 </table>
 
 <br/>
+
+<div align="center">
+  <a href="https://github.com/Wajid0005/CSV_health_inspector" target="_blank">
+    <img src="https://img.shields.io/badge/CSV%20Health%20Inspector-Repo-F55027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="AI brain gif" />
